@@ -1,1 +1,1 @@
-Source code for following blog post: https://blog.luckenuik.net/hosting-your-aspnet-core-razor-pages-inside-azure-functions/
+Source code for following blog post: http://www.luckenuik.net/hosting-your-aspnet-core-razor-pages-inside-azure-functions/
